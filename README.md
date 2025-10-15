@@ -1,1 +1,1 @@
-netlify link : https://projectcloneairbn.netlify.app/
+netlify link : https://clonebnbair.netlify.app/
